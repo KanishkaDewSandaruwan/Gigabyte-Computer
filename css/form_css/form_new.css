@@ -1,0 +1,95 @@
+.reg_form1{
+	width: 100%;
+	/*background-color: #00394e;*/
+	padding-bottom: 100px;
+	padding: 5%;
+	color: #00394e;
+	/*border-radius: 2em;*/
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-size: 25px;
+	margin-top: -4%;
+}
+.view_title{
+	text-decoration: none;
+}
+
+
+.form-control{
+	font-size: 15px;
+	height: 35px;
+}
+
+.reg_form1_treat{
+	width: 50%;
+	background-color: #0f3460;
+	padding: 5%;
+	color: yellow;
+	border-radius: 2em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	margin-top: -4%;
+}
+.btn{
+	padding-bottom: 1%;
+	padding-top: 1%;
+	font-size: 20px;
+}
+div.view_div{
+	/*background-color: #00394e;*/
+	padding: 2%;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: -4.5%;
+	margin-left: -1%;
+	/*border-radius: 2em;*/
+}
+.table_new_large{
+	width: 100%;
+	border:1px solid white;
+	font-size: 1vw;
+	padding: 1%;
+}
+table.table_new_large th{
+	border:1px solid white;
+	background-color: #00394e;
+	padding: 1%;
+}
+table.table_new_large td{
+	border:1px solid black;
+	background-color: white;
+	color: black;
+	padding: 1px;
+}
+
+table.table_new{
+	width: 100%;
+	border:1px solid white;
+	font-size: 1.2vw;
+	padding: 1%;
+
+}
+
+
+
+table.table_new th{
+	border:1px solid white;
+	background-color: #00394e;
+	padding: 1%;
+}
+table.table_new td{
+	border:1px solid black;
+	background-color: white;
+	color: black;
+	padding: 1px;
+}
+
+.form_hed{
+	font-size: 35px;
+	text-align: center;
+}
+.form_title{
+	float: left;
+	color: #00394e;
+	font-family: "Times New Roman", Times, serif;
+}

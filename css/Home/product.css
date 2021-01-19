@@ -1,0 +1,14 @@
+.cat_row{
+	padding-top: 1%; 
+	border: 2px solid #00394e; 
+	margin-top: 2%; 
+	border-radius: 2em;
+	padding-bottom: 1%;
+}
+
+.product_col{
+	border:2px solid black; 
+	margin: 8px; 
+	text-align: center; 
+	padding: 1%;
+}
